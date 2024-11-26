@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="left">Hi there, I'm Flavia 👋</h2>
 
-<!--
-**dendeaisd/dendeaisd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌟About me
+- 📚 Passionate about physics, machine learning, and software architecture.
+- 💡Enthusiast about creating impactful tech
+## What I’m Learning 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- 🤖 Reinforcement Learning with TensorFlow and PPO
+- 🐍 Sharpening my Python skills
+
+👇 Check out some of my projects below!
