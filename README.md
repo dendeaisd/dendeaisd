@@ -11,4 +11,4 @@
 - 🤖 Reinforcement Learning with TensorFlow and PPO
 - 🐍 Sharpening my Python skills
 
-👇 Check out some of my projects below!
+Check out some of my projects below! 👇 
